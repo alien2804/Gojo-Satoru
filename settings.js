@@ -19,20 +19,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['2348100236360']
+global.premium = ['2348100236360']
+global.ownernomer = '2348100236360'
+global.ownername = 'Bashir Ibrahim'
+global.botname = 'Alien Bot'
+global.footer = '©AlienbotInc.'
+global.ig = 'https://github.com/alien_graphics28'
+global.region = 'Nigeria, Lagos, Agege'
+global.sc = 'https://github.com/alien2804/Gojo-Satoru'
+global.myweb = 'https://youtube.com/channel/catchy creatives '
+global.packname = 'Alien Bot '
+global.author = 'Bashir Ibrahim'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','👽']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
